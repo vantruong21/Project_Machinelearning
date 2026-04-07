@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,SupplierID,UnitPrice
+101,Samsung Device 1,Laptop,5,1131
+102,Samsung Device 2,Tablet,2,1454
+103,Samsung Device 3,Smartphone,4,946
+104,Samsung Device 4,Laptop,2,320
+105,Samsung Device 5,Laptop,4,1140
+106,Samsung Device 6,Tablet,5,466
+107,Samsung Device 7,Smartphone,1,687
+108,Samsung Device 8,Smartphone,4,900
+109,Samsung Device 9,Laptop,2,615
+110,Samsung Device 10,TV,5,313
+111,Samsung Device 11,Laptop,4,541
+112,Samsung Device 12,Laptop,1,1076
+113,Samsung Device 13,Laptop,1,864
+114,Samsung Device 14,Laptop,3,1197
+115,Samsung Device 15,Tablet,3,391
+116,Samsung Device 16,Smartphone,2,1255
+117,Samsung Device 17,Tablet,4,808
+118,Samsung Device 18,Tablet,4,1075
+119,Samsung Device 19,Tablet,3,334
+120,Samsung Device 20,Laptop,4,505
