@@ -1,0 +1,19 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Large files
+# model.pkl  # I will include this for now as per "entire project" request, but it's 1.8MB
